@@ -8,33 +8,29 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            Hi Everyone, I am <span className="purple">Jaylen Cooper </span> from <span className="purple">Virginia, USA.</span>
+            <br/>
+            My goal is to use technology to create real, positive impact—building solutions that are efficient, scalable, and truly improve lives. 
+            I believe in continuous growth: always learning, staying curious, and evolving both as a developer and as a person. 
+            I'm passionate about emerging technologies, but even more committed to using them responsibly. 
+            I strive to support others, share knowledge, and leave every project, team, and environment better than I found it.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Contributing to Open Source Projects
             </li>
             <li className="about-activity">
               <ImPointRight /> Writing Tech Blogs
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Aim to create solutions that have a lasting impact."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Jaylen</footer>
         </blockquote>
       </Card.Body>
     </Card>
